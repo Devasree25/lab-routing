@@ -8,15 +8,11 @@ const Navbar =()=>{
             <div className="nav">
                <div className="class">
                <Link to="/" id="link">Kalvium ❤️</Link>
+               <h2 className="store-title">KALVIUM BOOK STORE</h2>
                </div>
-                <div className="contact">
-                <Link to="/contacts" id="link">Contacts</Link>
-                </div>
-                <div className="about">
-                <Link to="/about" id="link">About</Link>
-                </div>
-                <div>
-                <Link to="/forms" id="link">Registration Form</Link>
+               
+                <div id="regi">
+                <Link to="/forms" id="link">Create Account</Link>
                     
                 </div>
             </div>

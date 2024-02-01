@@ -3,6 +3,8 @@ import Navbar from './Component/Navbar'
 import AllRoutes from './AllRoutes'
 import { BrowserRouter } from 'react-router-dom'
 
+
+
 function App() {
   const [count, setCount] = useState(0)
 
