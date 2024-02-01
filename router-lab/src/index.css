@@ -2,16 +2,14 @@
 h1{
     color: purple;
   }
-  /* body{
-    margin: 0px;
-    padding: 0px;
+  body{
+  
     max-width: 100%;
     height: auto;
     display: flex;
     justify-content: center;
-    position: relative;
-    top: 280px;
-  } */
+   
+  } 
   #para{
     color: green;
   
@@ -52,6 +50,7 @@ h1{
   }
   body{
     background-color: pink;
+
   }
   #text{
     display: flex;
